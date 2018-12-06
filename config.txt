@@ -1,6 +1,6 @@
-﻿token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
-prefix= هنا البرفكس حق بوتك
-game= هنا حط الكلام الي يجي في البلاينج
+token= NTIwMTg0MzMyMTI4NzQ3NTIw.DuqK-g.ESs4-K58qS9SfbziwXKYTNOjj5A
+owner= 408136927259131905
+prefix= 3
+game= 3help
 stayinchannel=true 
 songinstatus=true 
